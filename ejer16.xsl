@@ -8,7 +8,7 @@
   </xsl:template>
   <xsl:template match="tienda">
     <head>
-      <title>ejer_16</title>
+      <title>ejer_161</title>
     </head>
     <body>
       <h1>
