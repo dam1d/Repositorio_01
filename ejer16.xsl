@@ -8,12 +8,12 @@
   </xsl:template>
   <xsl:template match="toenda">
     <head>
-      <title>ejer_16</title>
+      <title>Ejer_16</title>
     </head>
     <body>
-      <h1>
+      <h2>
         <xsl:value-of select="nombre"/>
-      </h1>
+      </h2>
       <h2>Teléfono: <xsl:value-of select="telefono"/> </h2>
       <xsl:for-each select="url">
         <xsl:value-of select="@etiqueta"/>
