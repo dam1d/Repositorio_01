@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <?xml-stylesheet href="ejer16.xsl" type="text/xsl"?>
 <tienda>
-  <nombre>La tiendecilla</nombre>
+  <nombre>La tienda por Adrian Dobrila</nombre>
   <telefono>953 87 12 23</telefono>
   <url etiqueta="URL: ">http://www.tiendecilla.es</url>
   <url prefijo="mailto:" etiqueta="Informacion: ">info@tiendecilla.es</url>
