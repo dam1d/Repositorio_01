@@ -6,7 +6,7 @@
       <xsl:apply-templates/>
     </html>
   </xsl:template>
-  <xsl:template match="toenda">
+  <xsl:template match="Tiendecilla">
     <head>
       <title>ejer_16</title>
     </head>
