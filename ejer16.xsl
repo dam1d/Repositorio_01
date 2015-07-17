@@ -14,7 +14,7 @@
       <h1>
         <xsl:value-of select="nombre"/>
       </h1>
-      <h2>Teléfono: <xsl:value-of select="telefono"/> </h2>
+      <h2>Teléfoo: <xsl:value-of select="telefono"/> </h2>
       <xsl:for-each select="url">
         <xsl:value-of select="@etiqueta"/>
         <a>
